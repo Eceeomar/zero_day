@@ -1,3 +1,1 @@
-A read me for Vagrant
-
-This is optional
+readme file vagrant
